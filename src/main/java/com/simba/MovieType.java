@@ -1,7 +1,7 @@
 package com.simba;
 
 /**
- * @author <a href="mailto:ElHadjiOmar.DIONE@orange-sonatel.com">podisto</a>
+ * @author <a href="mailto:simbadeveloppement@gmail.com">podisto</a>
  * @since 2019-08-04
  */
 public enum MovieType {
